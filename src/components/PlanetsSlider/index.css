@@ -1,0 +1,6 @@
+/* Write your CSS here */
+.slider-container {
+  background-color: black;
+  padding: 90px;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png ');
+}

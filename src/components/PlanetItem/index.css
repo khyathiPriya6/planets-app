@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.each-planet-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  text-align: center;
+}
+
+.each-planet-img-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.planets-heading {
+  color: #05acff;
+  font-size: 30px;
+}
+
+.planet-img {
+  width: 700px;
+}
+
+.planet-name {
+  color: #f8fafc;
+}
+
+.planet-desc {
+  color: #f1f5f9;
+}
